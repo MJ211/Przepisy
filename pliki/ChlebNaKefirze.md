@@ -10,7 +10,7 @@ Bardzo dobry domowy chleb. Przedstawiony przepis jest przystosowany do dwóch ma
 
 ## Składniki:
 
-* 100g drożdzy
+* 50g drożdzy
 * 1 łyżka cukru
 * 2.5 szklanki ciepłej przegotowanej wody
 * 1 szklanka kefiru lub kwaśnego mleka
