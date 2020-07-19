@@ -1,4 +1,4 @@
-# Przepis na Milk Stout z ekstraków
+# Przepis na kwaśny stout z ekstraków
 
 ## Składniki
 * 2x Ekstrakt słodowy ciemny 1,7 kg - Firma WES
@@ -69,4 +69,5 @@ Z kalkulatora online obliczyłem, że na 23 litry powinienem dodać 100g cukru. 
 7. Zakapslować
 
 ## Wyniki
-Po tygodniu otworzyłem pierwszą butelkę. Smakowało średnio, mało gazu.
+
+Bardzo dobre kwaśne piwo, lekko palone. Ma mało procent, w ogóle nie czuć alkoholu. Jest super orzeźwiające. 
