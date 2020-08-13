@@ -1,35 +1,37 @@
 # Chleb na Kefirze
 
-Bardzo dobry domowy chleb. Przedstawiony przepis jest przystosowany do dwóch małych blaszek.
+Bardzo prosty smaczny chleb. O wiele lepszy niż sklepowy.
 
 ## Sprzęt:
 
-* dwie małe formy
+* jedna mała forma
 * papier do pieczenia
 * pędzelek
 
 ## Składniki:
 
-* 50g drożdzy
-* 1 łyżka cukru
-* 2.5 szklanki ciepłej przegotowanej wody
-* 1 szklanka kefiru lub kwaśnego mleka
-* 5 szklanek mąki pszennej
-* 5 czubatych łyżek otrębów pszennych
-* 3 czubate łyżki otrębów owsianych
-* 3 łyżki siemienia lnianego    
-* 5 łyżek słonecznika
-* 1 czubata łyżeczka soli
+* 25g drożdzy
+* 2 łyżka cukru
+* 1.25 szklanki ciepłej przegotowanej wody
+* 0.5 szklanki kefiru lub kwaśnego mleka
+* 3 szklanki mąki pszennej
+* 1.5 czubatych łyżek otrębów pszennych
+* 1.5 czubatych łyżek otrębów owsianych
+* 1.5 łyżki siemienia lnianego    
+* 1.5 łyżki słonecznika
+* 1 płaska łyżka soli
 * sezam do posypania
 
 ## Przygotowanie
 
-1. Do miski wlać wodę, pokruszyć drożdże, dodać cukier i zamieszać. Odczekać dwie minuty
+1. Do miski wlać wodę, pokruszyć drożdże, dodać cukier i zamieszać. Odczekać aż zaczną się robić bombelki
 2. Dodać resztę składników i dobrze wymieszać łyżką.
 3. Przykryć miskę (np. ściereczką), odczekać aż wyrośnie.
-4. Kolejny raz dobrze wymieszać.
-5. Blaszki wyłożyć papierem do pieczenia, po czym przelać do nich masę. Poczekać aż wyrośnie.
-6. Piecz 40 minut w temperaturze 180 stopni Celcjusza.
-7. Wyjmij blaszki, posmaruj chleb zimną wodą i włóż z powrotem do piekarnika na kolejne 20 minut w 200 stopniach.
-8. Wymij blaszki z piekarnika, a od razu po tym wyjmij z nich chleb. 
+4. Kolejny raz dobrze wymieszać, przykryć ściereczką
+5. Blaszkę wyłożyć papierem do pieczenia, po czym przelać do nich masę. Poczekać aż wyrośnie, pod ściereczką.
+6. Piecz 40 minut w temperaturze 180 stopni Celcjusza na termoobiegu.
+7. Wyjmij blaszkę, posmaruj chleb zimną wodą
+8. Ustaw piekarnik na 200 stopni, przełącz na pieczenie dolne.
+9. Włóż blaszkę na spód piekarnika, piecz kolejne 20 minut.
+8. Wymij blaszkę z piekarnika, wyjmij z niej chleb, ściągnij papier do pieczenia i ustaw chleb na kratce lub drewnianej desce.
 

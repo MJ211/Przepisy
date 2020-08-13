@@ -39,7 +39,8 @@ Fermentacja rozpoczęła się 19.07. Roztwór ma 17 BLG, 8 litrów.
 
 ### Butelkowanie
 
-TODO
+Butelkowanie odbyło się 12.08, BLG wynosi około 3. Z kalkulatora wynika że wyjdzie około 7.5%.
+Z 8 litrów zostało slanych 6.5litra, dodałem do tego 9 gramów cukru na litr, rozpuszczając go w 0.5 litra wody.
 
 ## Wyniki
 
