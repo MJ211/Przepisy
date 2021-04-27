@@ -1,18 +1,18 @@
 # Chleb na Kefirze
 
-Bardzo prosty smaczny chleb. O wiele lepszy niż sklepowy.
+Przepis przeznaczony na jedną keksówkę. W przypadku dwóch, podwoić składniki. Chleb można bez problemu zamrozić.
 
 ## Sprzęt:
 
-* jedna mała forma
+* keksówka (25 cm)
 * papier do pieczenia
 * pędzelek
 
 ## Składniki:
 
 * 25g drożdzy
-* 2 łyżka cukru
-* 1.25 szklanki ciepłej przegotowanej wody
+* 2 łyżki cukru
+* 0.5 szklanki ciepłej przegotowanej wody
 * 0.5 szklanki kefiru lub kwaśnego mleka
 * 3 szklanki mąki pszennej
 * 1.5 czubatych łyżek otrębów pszennych
@@ -20,18 +20,19 @@ Bardzo prosty smaczny chleb. O wiele lepszy niż sklepowy.
 * 1.5 łyżki siemienia lnianego    
 * 1.5 łyżki słonecznika
 * 1 płaska łyżka soli
-* sezam do posypania
+* sezam i/lub czarnuszka do posypania
 
 ## Przygotowanie
 
 1. Do miski wlać wodę, pokruszyć drożdże, dodać cukier i zamieszać. Odczekać aż zaczną się robić bombelki
-2. Dodać resztę składników i dobrze wymieszać łyżką.
+2. Dodać resztę składników i dobrze wymieszać łyżką. Ciasto powinno mieć taką konsystencje aby ciężko było je mieszać. Jeśli ciasto będzie za suche, dodawać po trochu kefiru/kwaśnego mleka.
 3. Przykryć miskę (np. ściereczką), odczekać aż wyrośnie.
-4. Kolejny raz dobrze wymieszać, przykryć ściereczką
-5. Blaszkę wyłożyć papierem do pieczenia, po czym przelać do nich masę. Poczekać aż wyrośnie, pod ściereczką.
-6. Piecz 40 minut w temperaturze 180 stopni Celcjusza na termoobiegu.
-7. Wyjmij blaszkę, posmaruj chleb zimną wodą
-8. Ustaw piekarnik na 200 stopni, przełącz na pieczenie dolne.
-9. Włóż blaszkę na spód piekarnika, piecz kolejne 20 minut.
-8. Wymij blaszkę z piekarnika, wyjmij z niej chleb, ściągnij papier do pieczenia i ustaw chleb na kratce lub drewnianej desce.
+4. Kolejny raz dobrze wymieszać, przykryć ściereczką aż wyrośnie
+6. Blaszkę wyłożyć papierem do pieczenia.
+5. Dobrze wymieszać ciasto po czym przelać do keksówki, posypać sezamem i/lub czarnuszką. Poczekać aż wyrośnie, pod ściereczką.
+7. Piecz 60 minut w temperaturze 190 stopni Celcjusza na termoobiegu. Blaszka powinna być umieszczona w połowie wysokości piekarnika.
+8. Wyjmij blaszkę, posmaruj chleb zimną wodą
+9. Ustaw piekarnik na 210 stopni, przełącz na pieczenie dolne.
+10. Włóż blaszkę na spód piekarnika, piecz kolejne 15 minut.
+11. Wyjmij chleb z formy oraz z papieru i postaw na kratce.
 
